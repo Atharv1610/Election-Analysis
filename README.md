@@ -13,3 +13,18 @@ The goal is to compile detailed insights into parliamentary constituency outcome
 - [Applications](#applications)
 - [Contributing](#contributing)
 - [License](#license)
+
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   https://github.com/Atharv1610/EarthFinesse.git
+   cd EarthFinesse
+	```
+2. Install the required Python packages:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
