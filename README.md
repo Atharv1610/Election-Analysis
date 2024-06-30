@@ -46,4 +46,47 @@ soup = BeautifulSoup(response.content, 'html.parser')
 
 
 ## Organizing CSV Files by State
-The election data collected from the Election Commission of India (ECI) website is meticulously organized into a structured folder hierarchy. Each state registry inside the 'state' envelope contains subfolders addressing individual ideological groups. Inside each party organizer, CSV documents exemplify itemized parliamentary electorate results, including characteristics, for example, seat number, parliament supporters, winning applicant, all out votes, and edge. This systematic arrangement ensures efficient data retrieval and comprehensive analysis of statewise election outcomes, facilitating detailed insights into electoral trends and political dynamics across India.
+The election data collected from the Election Commission of India (ECI) website is organized into a structured folder hierarchy. Each state registry inside the 'state' envelope contains subfolders addressing individual ideological groups. Inside each party organizer, CSV documents exemplify itemized parliamentary electorate results, including characteristics, for example, seat number, parliament supporters, winning applicant, all out votes, and edge. This systematic arrangement ensures efficient data retrieval and comprehensive analysis of statewise election outcomes, facilitating detailed insights into electoral trends and political dynamics across India.
+
+ ```bash
+import requests
+from bs4 import BeautifulSoup
+import pandas as pds
+def fetch_data(url):
+    response = requests.get(url)
+    if response.status_code == 200:
+        return response.content
+    else:
+        print(f"Failed to retrieve {url}")
+        return None
+
+state_party_links = {}
+
+for state_name, url in state_links.items():
+    print(f"Fetching party links for {state_name} from {url}")
+    
+    page_content = fetch_data(url)
+    if page_content:
+        soup = BeautifulSoup(page_content, 'html.parser')
+        
+        party_rows = soup.select('tbody tr.tr')
+        
+        party_list = []
+
+        for row in party_rows:
+            party_name = row.find('td', style='text-align:left').text.strip()
+            party_link = row.find('a')['href']
+            party_list.append((party_name, party_link))
+
+        state_party_links[state_name] = party_list
+    
+    print(f"Party links fetched for {state_name}")
+    print("-" * 50)
+
+print("State Party Links:")
+for state, parties in state_party_links.items():
+    print(f"State: {state}")
+    for party_name, party_link in parties:
+        print(f"Party Name: {party_name}, Link: {party_link}")
+    print("-" * 50)
+``` 
