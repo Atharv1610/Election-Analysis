@@ -92,5 +92,6 @@ for state, parties in state_party_links.items():
 ```
 
 ## Key Insights
-1. Voter Turnout
-	The average voter turnout across constituencies was 65%, highlighting varying levels of civic engagement and political participation.
+1. Voter Turnout:
+	
+ The average voter turnout across constituencies was 65%, highlighting varying levels of civic engagement and political participation.
