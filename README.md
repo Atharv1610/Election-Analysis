@@ -105,6 +105,7 @@ for state, parties in state_party_links.items():
         different constituencies, revealing where parties have strong incumbency advantages or face closely contested races.
 
 
-    	![image](https://github.com/Atharv1610/Election-Analysis/assets/103433059/bb285416-928a-4fe9-b6c8-257e566aea63)
+    	![image](https://github.com/Atharv1610/Election-Analysis/assets/103433059/956012c7-188a-49bb-a26f-9ba2665e177e)
+
 
 
