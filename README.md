@@ -20,7 +20,7 @@ The goal is to compile detailed insights into parliamentary constituency outcome
 1. Clone the repository:
 
    ```bash
-   https://github.com/Atharv1610/EarthFinesse.git
+   https://github.com/Atharv1610/Election-Analysis.git
    cd EarthFinesse
 	```
 2. Install the required Python packages:
