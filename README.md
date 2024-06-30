@@ -111,11 +111,9 @@ for state, parties in state_party_links.items():
 
    	The elections highlighted stark differences in voter priorities between urban and rural constituencies. Urban areas, grappling with issues like 
         infrastructure development, employment opportunities, and governance efficiency, showed distinct voting patterns compared to rural areas, which 
-        prioritized agricultural welfare, local development projects, and traditional community concerns.
-
-   	 Identity politics and localized issues played a pivotal role in shaping electoral outcomes. Various regions exhibited polarization driven by local 
-         sentiments, cultural identities, and historical contexts. Regional parties and alliances strategically leveraged these factors to consolidate support, 
-         impacting the distribution of seats and electoral alliances.
+        prioritized agricultural welfare, local development projects, and traditional community concerns.Identity politics and localized issues played a pivotal 
+         role in shaping electoral outcomes. Various regions exhibited polarization driven by local sentiments, cultural identities, and historical contexts. 
+         Regional parties and alliances strategically leveraged these factors to consolidate support, impacting the distribution of seats and electoral alliances.
 
 
     	
