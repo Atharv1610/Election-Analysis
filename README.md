@@ -10,7 +10,7 @@ The goal is to compile detailed insights into parliamentary constituency outcome
 - [Installation](#installation)
 - [Data Extraction](#data-extraction)
 - [Organizing CSV Files by State](#organizing-csv-files-by-state)
-- [Training Procedure](#training-procedure)
+- [Key Insights](#key-insights)
 - [Training Results](#training-results)
 - [Applications](#applications)
 - [Contributing](#contributing)
@@ -92,5 +92,5 @@ for state, parties in state_party_links.items():
 ```
 
 ## Key Insights
-## Voter Turnout
-The average voter turnout across constituencies was 65%, highlighting varying levels of civic engagement and political participation.
+1. Voter Turnout
+	The average voter turnout across constituencies was 65%, highlighting varying levels of civic engagement and political participation.
