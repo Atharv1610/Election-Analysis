@@ -33,6 +33,6 @@ The goal is to compile detailed insights into parliamentary constituency outcome
 
 ## Data Extraction
 The Election-Analysis project begins by scraping comprehensive statewise election results data from the Election Commission of India (ECI) website. Using Python's requests and BeautifulSoup libraries, URLs are parsed to access detailed parliamentary constituency outcomes.
-''' bash
+ ```bash
 gdqukiadfgheug
-'''
+```
