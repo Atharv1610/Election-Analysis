@@ -104,8 +104,10 @@ for state, parties in state_party_links.items():
         average MoV of 192,809.77 votes, MoV data provides deep insights into the electoral dynamics and strategic implications for political parties. It highlights varying levels of voter support across 
         different constituencies, revealing where parties have strong incumbency advantages or face closely contested races.
 
+![image](https://github.com/Atharv1610/Election-Analysis/assets/103433059/83361242-3b2b-48b5-9c84-eccfe76a5c85)
 
-    	![image](https://github.com/Atharv1610/Election-Analysis/assets/103433059/956012c7-188a-49bb-a26f-9ba2665e177e)
+
+    	
 
 
 
