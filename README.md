@@ -103,5 +103,8 @@ for state, parties in state_party_links.items():
 	The Margin of Victory (MoV) in the 2024 Indian parliamentary elections serves as a crucial indicator of electoral competitiveness and party performance. With the Bharatiya Janata Party (BJP) securing an 
         average MoV of 192,809.77 votes, MoV data provides deep insights into the electoral dynamics and strategic implications for political parties. It highlights varying levels of voter support across 
         different constituencies, revealing where parties have strong incumbency advantages or face closely contested races.
-   	![image](https://github.com/Atharv1610/Election-Analysis/assets/103433059/91b72ee2-ef05-4fd4-851b-c8b54095aa3b)
+
+
+    	![image](https://github.com/Atharv1610/Election-Analysis/assets/103433059/bb285416-928a-4fe9-b6c8-257e566aea63)
+
 
