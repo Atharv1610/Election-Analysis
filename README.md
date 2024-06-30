@@ -21,7 +21,7 @@ The goal is to compile detailed insights into parliamentary constituency outcome
 
    ```bash
    https://github.com/Atharv1610/Election-Analysis.git
-   cd EarthFinesse
+   cd Election-Analysis
 	```
 2. Install the required Python packages:
 
