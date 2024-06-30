@@ -11,10 +11,7 @@ The goal is to compile detailed insights into parliamentary constituency outcome
 - [Data Extraction](#data-extraction)
 - [Organizing CSV Files by State](#organizing-csv-files-by-state)
 - [Key Insights](#key-insights)
-- [Training Results](#training-results)
-- [Applications](#applications)
-- [Contributing](#contributing)
-- [License](#license)
+- [References](#reference)
 
 
 ## Installation
@@ -116,7 +113,8 @@ for state, parties in state_party_links.items():
          Regional parties and alliances strategically leveraged these factors to consolidate support, impacting the distribution of seats and electoral alliances.
 
 
-    	
-
+## References
+		https://results.eci.gov.in/
+  		https://results.eci.gov.in/PcResultGenJune2024/index.htm
 
 
