@@ -114,7 +114,7 @@ for state, parties in state_party_links.items():
 
 
 ## References
-		https://results.eci.gov.in/
-  		https://results.eci.gov.in/PcResultGenJune2024/index.htm
+	https://results.eci.gov.in/
+  	https://results.eci.gov.in/PcResultGenJune2024/index.htm
 
 
