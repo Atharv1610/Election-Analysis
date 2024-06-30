@@ -43,3 +43,7 @@ url = 'https://results.eci.gov.in/PcResultGenJune2024/index.htm'
 response = requests.get(url)
 soup = BeautifulSoup(response.content, 'html.parser')
    ```
+
+
+## Organizing CSV Files by State
+The election data collected from the Election Commission of India (ECI) website is meticulously organized into a structured folder hierarchy. Each state registry inside the 'state' envelope contains subfolders addressing individual ideological groups. Inside each party organizer, CSV documents exemplify itemized parliamentary electorate results, including characteristics, for example, seat number, parliament supporters, winning applicant, all out votes, and edge. This systematic arrangement ensures efficient data retrieval and comprehensive analysis of statewise election outcomes, facilitating detailed insights into electoral trends and political dynamics across India.
