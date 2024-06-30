@@ -6,7 +6,7 @@ The goal is to compile detailed insights into parliamentary constituency outcome
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
+- [Data Extraction](#data extraction)
 - [Model Training](#model-training)
 - [Training Procedure](#training-procedure)
 - [Training Results](#training-results)
@@ -28,3 +28,5 @@ The goal is to compile detailed insights into parliamentary constituency outcome
    ```bash
    pip install -r requirements.txt
    ```
+
+## Data Extraction
