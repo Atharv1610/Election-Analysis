@@ -97,6 +97,7 @@ for state, parties in state_party_links.items():
  	The 2024 Indian parliamentary elections showcased a significant average voter turnout of 65% across constituencies, underscoring diverse levels of civic engagement and political participation nationwide.
 
 
-2. Margin of Victory (MoV):
-
-		The Margin of Victory (MoV) in the 2024 Indian parliamentary elections serves as a crucial indicator of electoral competitiveness and party performance. With the Bharatiya Janata Party (BJP) 			securing an average MoV of 192,809.77 votes, MoV data provides deep insights into the electoral dynamics and strategic implications for political parties. It highlights varying levels of voter 		support across different constituencies, revealing where parties have strong incumbency advantages or face closely contested races. 
+2. Margin of Victory (MoV)
+The Margin of Victory (MoV) in the 2024 Indian parliamentary elections serves as a crucial indicator of electoral competitiveness and party performance. With the Bharatiya Janata Party (BJP) securing an average
+MoV of 192,809.77 votes, MoV data provides deep insights into the electoral dynamics and strategic implications for political parties. It highlights varying levels of voter support across different
+constituencies, revealing where parties have strong incumbency advantages or face closely contested races.
