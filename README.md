@@ -94,4 +94,4 @@ for state, parties in state_party_links.items():
 ## Key Insights
 1. Voter Turnout:
 	
- 	The average voter turnout across constituencies was 65%, highlighting varying levels of civic engagement and political participation.
+ 	The 2024 Indian parliamentary elections showcased a significant average voter turnout of 65% across constituencies, underscoring diverse levels of civic engagement and political participation nationwide. 
