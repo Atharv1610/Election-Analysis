@@ -11,7 +11,7 @@ The goal is to compile detailed insights into parliamentary constituency outcome
 - [Data Extraction](#data-extraction)
 - [Organizing CSV Files by State](#organizing-csv-files-by-state)
 - [Key Insights](#key-insights)
-- [References](#reference)
+- [References](#references)
 
 
 ## Installation
